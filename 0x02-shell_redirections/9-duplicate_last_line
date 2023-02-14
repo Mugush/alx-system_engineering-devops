@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -/a > /s_cwd_content
+tail -n 1 iacta >> iacta
